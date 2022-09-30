@@ -1,0 +1,8 @@
+.two-columns {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-top: 100px;
+  }
