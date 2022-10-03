@@ -1,9 +1,8 @@
 .two-columns__paragraph {
-    margin-top: 0;
-    margin-bottom: 30px;
-  }
+  margin-top: 0;
+  margin-bottom: 30px;
+}
 
-    .two-columns__paragraph:last-child {
-    margin-bottom: 0;
-  }
-  
+.two-columns__paragraph:last-child {
+  margin-bottom: 0;
+}
