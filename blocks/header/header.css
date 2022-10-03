@@ -2,10 +2,10 @@
     height: 100vh;
     min-height: 600px;
     max-height: 756px;
-    /* выше установили ограничения для секции */
     background-color: #f2f2f2;
     position: relative;
     display: flex;
     flex-direction: row;
     z-index: 0;
+    overflow: hidden;
   }
